@@ -1,7 +1,7 @@
 
-#Exemplo de serviço simples de pagamento no console
+# Exemplo de serviço simples de pagamento no console
 
-###Problema motivador
+### Problema motivador
 
 Uma empresa deseja automatizar o processamento de seus contratos. O processamento de
 um contrato consiste em gerar as parcelas a serem pagas para aquele contrato, com base no
